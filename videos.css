@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(83, 81, 81);
+    font-family: "arquitecta", standard-bold;
+    font-weight: 1000;
+    font-style: normal;
+}
+.toparea{
+    background-color: brown;
+}
+.video1{
+    padding: 20px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+.foot{
+    background:black;
+    padding: 30px 30px;
+}
+.foot h3{
+    border-left: 10px  white;
+    color: yellow;
+}
+
+.foot i {
+    color: #fff;
+    margin: 5px 10px;
+}
+.foot p{
+    color:#faf8f5;
+}
+.foot h5{
+    color:#f6f3f2;
+    
+}
+.foot a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.foot ul li:hover{
+    transform: translate(5px 10px);
+}
+
+
+

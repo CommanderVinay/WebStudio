@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(83, 81, 81);
+    font-family: "arquitecta", standard-bold;
+    font-weight: 1000;
+    font-style: normal;
+}
+
+.toparea ul li{
+   float: left; 
+   list-style: none;
+   color: white;
+   padding: 10px;
+   
+}
+.toparea img{
+    width: 100%;
+}
+.toparea ul li i{
+    color: white;
+}
+ 
+.terms{
+    background: grey;
+}
+.term {
+    text-align: center!;
+}
+
+
+.foot{
+    background:black;
+    padding: 30px 30px;
+}
+.foot h3{
+    border-left: 10px  white;
+    color: rgb(255, 0, 0);
+}
+.foot p{
+    color:#faf8f5;
+}
+.foot h5{
+    color:#f6f3f2;
+    
+}
+.foot ul li:hover{
+    transform: translate(5px 10px);
+}
+.foot a{
+    text-decoration: none;
+    color: #fff;
+}
+.foot i {
+    color: #fff;
+    margin: 5px 10px;
+}
+
+
